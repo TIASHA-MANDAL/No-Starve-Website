@@ -1,0 +1,19 @@
+.place{
+    width: 30vw;
+    height: 20vh;
+}
+.text-center10{
+    width: 50vw;
+    height: 30vh;
+    padding-bottom: 2px;
+}
+.bii{
+    margin-top: 4px;
+    margin-right: 8px;
+}
+.bii:hover{
+    transform: scale(1.1);
+}
+.ooo{
+    margin-top: 35vh;
+}

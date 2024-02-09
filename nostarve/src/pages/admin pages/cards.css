@@ -1,0 +1,29 @@
+.bu1{
+    margin-top: 2vh;
+    margin-left: 9vw;
+}
+ .g-4{
+    margin-left: 40vw;
+    width: 150vw;
+    height: 20vh;
+    margin-bottom: 3vh;
+} 
+.r1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 5vh;
+}
+.r2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 2vw;
+    margin-bottom: 5vh;
+}
+.c1{
+    margin-right:10vw ;
+}
+.bu1:hover{
+    transform: scale(1.1);
+}

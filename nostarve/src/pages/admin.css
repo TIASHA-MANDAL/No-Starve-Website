@@ -1,0 +1,23 @@
+.na{
+   margin-bottom: 5vh;
+   margin-right: 5vw;
+   padding-left: 3vw;
+   /* margin-top: 1vh; */
+   width: 105%;
+
+}
+.ca{
+    margin-bottom: 70vh;
+    margin-left: 40vw;
+    /* width: 100vw; */
+}
+.si{
+    margin-top: 1vh;
+    
+}
+.fl{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+}

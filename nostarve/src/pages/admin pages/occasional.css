@@ -1,0 +1,67 @@
+.kkk1{
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+.Optionoo{
+    height: 6vh !important;
+}
+.po22{
+    height: 25vh !important;
+    width: 12vw !important;
+}
+.btnss{
+    /* font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; */
+   color: white;
+   font-style: oblique;
+   /* font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ; */
+
+   /* font-variant: small-caps; */
+   padding: 5px 20px;
+   border-radius: 6px;
+   /* background: #321d9d; */
+   transition: all 0.2s ease;
+   border-color: rgb(40, 43, 42);
+  }
+
+    .btnss:active{
+        transform: scale(0.96);
+    }
+    .iii{
+        padding-left: 3vw !important;
+        padding-top: 3vh;
+    }
+    .ser{
+        padding-left: 32vw;
+        padding-bottom: 2vh;
+        /* padding-top: 1vh; */
+        font-size: 4vh;
+        font-weight: bold;
+        color: rgba(11, 126, 11, 0.771);
+        display: flex;
+        flex-direction: row;
+    }
+    .wewe{
+        padding-left: 2vw;
+    }
+    .mumu{
+        font-size: 2vh;
+        padding-left: 25vw;
+        /* font-weight: bold; */
+
+    }
+    /* .mumu1{
+        font-size: 2vh;
+        padding-left: 1.5vw;
+       
+
+    } */
+    .mumu:hover{
+        color: brown;
+    }
+    .iii3{
+        padding-left: 3.3vw !important;
+        padding-top: 2vh;
+       
+        border-radius: 6px;
+    }
+    
